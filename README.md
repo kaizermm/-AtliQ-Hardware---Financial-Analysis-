@@ -18,6 +18,11 @@ To unlock financial insights that were previously hidden from the sales team, pr
 ## Dashboard
 Link to Dashboard: <br>
 [Financial Analysis](https://public.tableau.com/views/FinalProject_16975079732720/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+## Conclusion and further improvement
+Conclusion: Our project uncovered valuable insights, such as price distribution, revenue, profit trends, and the correlation between marketing expenditures and revenue. Product categories impacting profit margins were identified, and customer behavior highlighted top contributors. India performed exceptionally well, while Spain needs strategic enhancements. Cohort analysis guides data-driven decisions.
+
+Improvement Area: To further enhance our project, we could explore deeper market-specific strategies and address profitability in declining segments, focusing on optimizing Spain's market performance.
+
 ## Preview
 ![image](https://github.com/kaizermm/-AtliQ-Hardware---Financial-Analysis-/assets/121756502/55624407-9a64-4e34-86f4-364b5e213f4c)
 ![image](https://github.com/kaizermm/-AtliQ-Hardware---Financial-Analysis-/assets/121756502/0143aa54-88d1-4481-af99-4c5249585d35)
