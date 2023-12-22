@@ -1,4 +1,4 @@
-# -AtliQ-Hardware---Financial-Analysis-
+# -AtliQ-Hardware-Financial-Analysis-
 ## Purpose
 To unlock financial insights that were previously hidden from the sales team, providing crucial decision support and enhancing our overall financial strategy.
 ## Stakeholders
