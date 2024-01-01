@@ -24,12 +24,11 @@ Conclusion: Our project uncovered valuable insights, such as price distribution,
 Improvement Area: To further enhance our project, we could explore deeper market-specific strategies and address profitability in declining segments, focusing on optimizing Spain's market performance.
 
 ## Preview
-![image](https://github.com/kaizermm/-AtliQ-Hardware---Financial-Analysis-/assets/121756502/55624407-9a64-4e34-86f4-364b5e213f4c)
+![Image 1](https://github.com/kaizermm/-AtliQ-Hardware---Financial-Analysis-/assets/121756502/55624407-9a64-4e34-86f4-364b5e213f4c)
 
-![image](https://github.com/kaizermm/-AtliQ-Hardware---Financial-Analysis-/assets/121756502/0143aa54-88d1-4481-af99-4c5249585d35)
+![Image 2](https://github.com/kaizermm/-AtliQ-Hardware---Financial-Analysis-/assets/121756502/0143aa54-88d1-4481-af99-4c5249585d35)
 
 
-![Dashboard for -AtliQ-Hardware-](https://github.com/kaizermm/-AtliQ-Hardware---Financial-Analysis-/assets/121756502/1cd9001d-51c6-43d0-839c-f620e101afe2)
 
 
 
